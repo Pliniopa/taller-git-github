@@ -1,0 +1,5 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Plinio Adolfo Parra
+Curso: Open Source /Ingenieria de software
+Fecha: 20/05/2026
